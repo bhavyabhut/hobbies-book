@@ -1,8 +1,6 @@
 # hobbies-book
 Hobbi book with login system (MERN)
 
-### [LIVE](https://big-bhavya.herokuapp.com/)
-### [Hobbies Book](https://big-bhavya.herokuapp.com/)
 
 ## technology stack
 - React
